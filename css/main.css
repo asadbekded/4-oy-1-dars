@@ -1,8 +1,14 @@
+form{
+   margin-top: 80px;
+   background-color: cornflowerblue;
+   border-radius: 8px;
+   padding: 40px 20px 40px 20px;
+   margin-bottom: 20px;
+}
 .js-inp{
    border: 2px solid rgb(10, 26, 173);
    border-radius: 15px;
    margin-right: 20px;
-   margin-bottom: 20px;
    padding: 5px 10px;
 }
 .hero-btn{
