@@ -1,4 +1,5 @@
 form{
+   display: inline-block;
    margin-top: 80px;
    background-color: cornflowerblue;
    border-radius: 8px;
